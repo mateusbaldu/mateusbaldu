@@ -1,5 +1,6 @@
 ## Olá, sou o Mateus Balduino!👋
 
+- 📖 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Java
 - 😄 Pronomes: ele/dele
 
