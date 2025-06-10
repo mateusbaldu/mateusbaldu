@@ -1,7 +1,7 @@
 ## Olá, sou o Mateus Balduino!👋
 
 - 📖 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Java e SQL
+- 🌱 Estudando Java e SpringBoot
 - 😄 Pronomes: ele/dele
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mateusbaldu&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
